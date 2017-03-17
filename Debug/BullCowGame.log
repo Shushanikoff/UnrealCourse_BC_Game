@@ -1,0 +1,4 @@
+﻿  FBullCowGame.cpp
+c:\users\дом\documents\visual studio 2015\projects\unrealdevelopercourse\section_02\bullcowgame\fbullcowgame.cpp(169): warning C4101: l: неиспользованная локальная переменная
+  BullCowGame.vcxproj -> C:\Users\дом\Documents\Visual Studio 2015\Projects\UnrealDeveloperCourse\section_02\Debug\BullCowGame.exe
+  BullCowGame.vcxproj -> C:\Users\дом\Documents\Visual Studio 2015\Projects\UnrealDeveloperCourse\section_02\Debug\BullCowGame.pdb (Full PDB)
